@@ -3,8 +3,7 @@
 #include "Sala.h"
 #include "Biblioteka.h"
 #include "Sekretariat.h"
-//#include <string>
-//#include <iostream>
+
 
 using namespace std;
 
